@@ -12,8 +12,8 @@ mdbConfig = {'MONGODB_SETTINGS': {
     'host': 'localhost',
     'port': 27017,
     'authentication_source': 'admin',
-    'username': 'ac29740',
-    'password': 'Newell!202201'},
+    'username': 'admin',
+    'password': 'password'},
     'JWT_SECRET_KEY': 'Have to input from Postman'}
 
 
